@@ -26,9 +26,9 @@
 - [📝 License](#license)
 
 
-# 📖 [Mobile-portfolio]<a name=""></a>
+# 📖 [Food-Web]<a name=""></a>
 
-This project is about building a portfolio website - specifically about the mobile first usage. By giving a glance to this project you can understand the usage of flexbox container and flexbox items.The second  miltstone of the portfolio project(Desktop-Version using media quries) has been achieved and added!
+This project is about building a Online Fruit Shop website - specifically about the mobile first usage. By giving a glance to this project you can understand the usage of Bootstrap container.
  
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -89,22 +89,6 @@ Clone this repository to your desired folder: Use git clone command or downloade
 cd my-folder
 git clone: (https://github.com/SajidHameed223/Food-Web.git)
 ```
-### Install
-
-Install this project with:npm Example commands
-```sh
-cd my-project
-npm init -y
-```
-```sh 
-npm install --save-dev hint@7.x
-```
-```sh 
-npx hint .
-```
-```sh 
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-```
 
 ### Usage
 
@@ -112,16 +96,6 @@ To run the project, execute the following command:npm test Example command:
 ```sh 
 GitHub Pages Server
 ```
-### Run tests
-
-To run tests, run the following command:npm test Example command:
-```sh 
- npx stylelint "**/*.{css,scss}"
-```
-```sh 
- npx stylelint "**/*.{css,scss}" --fix
-```
-
 
 ### Deployment
 
