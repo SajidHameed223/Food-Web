@@ -87,7 +87,7 @@ In order to run this project you need:
 Clone this repository to your desired folder: Use git clone command or downloaded ZIP folder Example command:
 ```sh
 cd my-folder
-git clone: ()
+git clone: (https://github.com/SajidHameed223/Food-Web.git)
 ```
 ### Install
 
@@ -133,7 +133,7 @@ You can deploy this project using:Github Pages
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Muhammad Usman**
+👤 **Sajid Hameed**
 
 - GitHub: [@githubhandle](https://github.com/SajidHameed223)
 
@@ -161,7 +161,7 @@ If you like this project then please follow me on Linkedin, Twitter and GitHub. 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Techwise for this project!
+I would like to thank Mr.Umar for this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
