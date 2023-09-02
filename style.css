@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    min-height: 100vh;
+flex-direction: column;
+}
+
+main{
+    flex: 1 0 auto;
+}
+.btnNav{
+background: orangered;
+color: white;
+}
+.btn-dark:hover{
+    color: orangered;
+}
+h1{
+font-size: 57px;
+    font-weight: bolder;
+}
+h2{
+font-size: 40px;
+font-weight: bold;
+}
+.card-title{
+    color: orangered;
+    font-size: 24px;
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.b1{
+
+}
+.b1:hover{
+  background: orangered;
+        color: white;
+        
+}
